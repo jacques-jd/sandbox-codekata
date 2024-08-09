@@ -1,6 +1,5 @@
 const sumOfArray = (array) => {
-  // your code goes here.
-  return 0;
+  // code goes here
 };
 
 let result1 = sumOfArray([15, 10, 5, 2]);
